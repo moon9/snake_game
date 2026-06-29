@@ -5,3 +5,5 @@ build:\
 `./nob`\
 run:\
 `./snake_game`
+
+![screen](https://github.com/moon9/snake_game/blob/main/resources/screen.png)
